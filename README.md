@@ -21,6 +21,9 @@
 
 🔭 I’m currently working on [Cartpro](http://cartproshop.com/demo) and [Peoplepro](http://peopleprohrm.com/demo)
 
+🌱 I’m currently learning [React](https://reactjs.org/)
+
+👍 I like to take challenge, love to solve problem, try to learn new technology and dedicated to work.
 
 📫 How to reach me **irfanchowdhury80@gmail.com**
 
