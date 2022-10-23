@@ -80,7 +80,7 @@
 
 <h4 align="left">OS</h4>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://freight.cargo.site/w/3840/q/75/i/a9f227752a9ba3bc689092085a7e6eb87b787abd858c3e3f0aebdc6a40f138d0/Windows_Final_3840p_v10_opt.png" alt="linux" width="40" height="40"/></a> 
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="[https://freight.cargo.site/w/3840/q/75/i/a9f227752a9ba3bc689092085a7e6eb87b787abd858c3e3f0aebdc6a40f138d0/Windows_Final_3840p_v10_opt.png](https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?crop=edges&fit=crop&h=630&rect=67%2C364%2C1665%2C1040&w=1200)" alt="Windows" width="40" height="40"/></a> 
 
 
 <h4 align="left">Others</h4>
