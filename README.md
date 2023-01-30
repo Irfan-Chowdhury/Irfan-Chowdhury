@@ -97,6 +97,13 @@
 
 
 <br>
+<b>&#128200; Competitive Programming</b>
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/armalam?theme=light&font=Karma&ext=contest" />
+</p>
+
+<br>
 
 <p><img align="left" width='500' src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-chowdhury&show_icons=true&locale=en&layout=compact" alt="irfan-chowdhury" /></p>
 <p><img align="left" width='500' style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=irfan-chowdhury&show_icons=true&locale=en" alt="irfan-chowdhury" /></p>
