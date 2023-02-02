@@ -66,12 +66,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="irfan-chowdhury" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan-chowdhury" alt="irfan-chowdhury" /></a> </p>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan-chowdhury" alt="irfan-chowdhury" /></a> 
 
 <br>
 
 
-<p><img align="left" width='500' src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-chowdhury&show_icons=true&locale=en&layout=compact" alt="irfan-chowdhury" /></p>
-<p><img align="left" width='500' style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=irfan-chowdhury&show_icons=true&locale=en" alt="irfan-chowdhury" /></p>
-<p><img align="left" width='500' style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-chowdhury&" alt="irfan-chowdhury" /></p>
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-chowdhury&show_icons=true&locale=en&layout=compact" alt="irfan-chowdhury" />
+<img align="left" width="325" src="https://github-readme-stats.vercel.app/api?username=irfan-chowdhury&show_icons=true&locale=en" alt="irfan-chowdhury" />
+<img align="left"  width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-chowdhury&" alt="irfan-chowdhury" />
