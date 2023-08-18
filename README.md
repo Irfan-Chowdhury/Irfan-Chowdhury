@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
-<h3 align="center">Full Stack Developer from Bangladesh</h3>
+<h3 align="center">Software Developer at LionCoders, Chittagong, Bangladesh</h3>
 
 
 <br>
