@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
-<h3 align="center">Software Developer at LionCoders, Chittagong, Bangladesh</h3>
+<h3 align="center">Software Engineer at LionCoders, Chittagong, Bangladesh</h3>
 
 
 <br>
@@ -17,11 +17,11 @@
 
 🏛 Completing my graduation on Computer Science & Engineering from [International Islamic University Chittagong](https://www.iiuc.ac.bd)
 
-🏦 Currently working as a junior software developer at [Lion Coders](https://lion-coders.com/)
+🏦 Currently working as a Software Engineer at [Lion Coders](https://lion-coders.com/)
 
-🔭 I’m currently working on [Cartpro](http://cartproshop.com/demo) and [Peoplepro](http://peopleprohrm.com/demo)
+🔭 I’m currently working on  [Peoplepro SaaS](https://peopleprohrmsaas.com/), [Peoplepro](http://peopleprohrm.com/demo) and [Cartpro](http://cartproshop.com/demo)
 
-🌱 I’m currently learning [React](https://reactjs.org/)
+🌱 Currently enrolled in a course - [Database for Software Developers](https://ostad.app/course/database-for-developer) from [Ostad](https://ostad.app/)
 
 👍 I like to take challenge, love to solve problem, try to learn new technology and dedicated to work.
 
