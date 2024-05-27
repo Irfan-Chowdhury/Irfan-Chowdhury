@@ -62,10 +62,6 @@
 
 <br>
 
-## Problem Solving
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Irfan95?theme=dark&ext=heatmap)
-
 
 ## GitHub Status
 
