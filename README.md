@@ -62,6 +62,11 @@
 
 <br>
 
+## Problem Solving
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Irfan95?theme=dark&ext=heatmap)
+
+
 ## GitHub Status
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="irfan-chowdhury" /> </p>
@@ -70,7 +75,8 @@
 
 <br>
 
-
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-chowdhury&show_icons=true&locale=en&layout=compact" alt="irfan-chowdhury" />
 <img align="left" width="325" src="https://github-readme-stats.vercel.app/api?username=irfan-chowdhury&show_icons=true&locale=en" alt="irfan-chowdhury" />
 <img align="left"  width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-chowdhury&" alt="irfan-chowdhury" />
+
+<br>
