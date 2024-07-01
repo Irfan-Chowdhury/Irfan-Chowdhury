@@ -71,8 +71,15 @@
 
 <br>
 
+## LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Irfan95?theme=dark)
+
+<br>
+
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-chowdhury&show_icons=true&locale=en&layout=compact" alt="irfan-chowdhury" />
 <img align="left" width="325" src="https://github-readme-stats.vercel.app/api?username=irfan-chowdhury&show_icons=true&locale=en" alt="irfan-chowdhury" />
 <img align="left"  width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-chowdhury&" alt="irfan-chowdhury" />
 
 <br>
+
