@@ -6,7 +6,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGxX3sqk1SKcQ/profile-displaybackgroundimage-shrink_200_800/0/1516893210091?e=2147483647&v=beta&t=URshGmzvHk7mjMWQZYhpd7z571xRbjvPYmyZBYxV9Pk)]()
 </h1>
 
-<h1 align="center">Hi guys 👋, welcome to my profile ! </h1>
+<h1 align="center">Hi there 👋, welcome to my profile ! </h1>
 
 <br>
 
