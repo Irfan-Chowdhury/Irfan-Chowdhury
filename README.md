@@ -6,24 +6,22 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGxX3sqk1SKcQ/profile-displaybackgroundimage-shrink_200_800/0/1516893210091?e=2147483647&v=beta&t=URshGmzvHk7mjMWQZYhpd7z571xRbjvPYmyZBYxV9Pk)]()
 </h1>
 
-<h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
-<h3 align="center">Software Engineer at LionCoders, Chittagong, Bangladesh</h3>
-
+<h1 align="center">Hi guys 👋, welcome to my profile ! </h1>
 
 <br>
 
 ## About Myself
 <img align='right' alt="Coding" width='250' src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
-🏛 Completing my graduation on Computer Science & Engineering from [International Islamic University Chittagong](https://www.iiuc.ac.bd)
-
 🏦 Currently working as a Software Engineer at [Lion Coders](https://lion-coders.com/)
 
-🔭 I’m currently working on  [Peoplepro SaaS](https://peopleprohrmsaas.com/), [Peoplepro](http://peopleprohrm.com/demo) and [Cartpro](http://cartproshop.com/demo)
+🏛 Completing my graduation on Computer Science & Engineering from [International Islamic University Chittagong](https://www.iiuc.ac.bd)
 
-🌱 Currently enrolled in a course - [Database for Software Developers](https://ostad.app/course/database-for-developer) from [Ostad](https://ostad.app/)
+🔭 Currently working on  [Peoplepro SaaS](https://peopleprohrmsaas.com/), [Peoplepro](http://peopleprohrm.com/demo) and [Cartpro](http://cartproshop.com/demo)
 
-👍 I like to take challenge, love to solve problem, try to learn new technology and dedicated to work.
+🌱 Currently enrolled in a course - [Professional Laravel Development Course](https://wedevs.academy/laravel-development) from [Ostad](https://wedevs.academy)
+
+👍 Like to take challenge, love to solve problem, try to learn new technology and dedicated to work.
 
 📫 How to reach me **irfanchowdhury80@gmail.com**
 
