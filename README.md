@@ -13,7 +13,7 @@
 ## About Myself
 <img align='right' alt="Coding" width='250' src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
-🏦 Currently working as a Software Engineer at [Lion Coders](https://lion-coders.com/)
+🏦 Currently working as a Software Engineer at [Workspace Infotech Ltd.](https://www.workspaceit.com/)
 
 🏛 Completing my graduation on Computer Science & Engineering from [International Islamic University Chittagong](https://www.iiuc.ac.bd)
 
